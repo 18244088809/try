@@ -19,7 +19,7 @@ def sign():
             'fontcolor':'#000000'
         }
 
-        url = 'http://www.uustv.com/'
+        url = 'http://www.uuu.com/'
 
         result = requests.post(url,data)
         #设置编码
